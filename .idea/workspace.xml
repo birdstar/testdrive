@@ -2,66 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BYD_Tang.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RX5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2909.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2910 2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2910.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2911.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2912.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2913.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2914.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2915.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2916.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2917.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2918.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2920.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2921.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2922.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2923.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2925.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2926.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2927.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2930.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2931.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2932.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2933 2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2933.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2934.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2935.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2936.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2937.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2938.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2939.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2940.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2941.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2942.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2943.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2944.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2945.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2946.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2947.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2948.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2949.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2950.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2951.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2952.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2953.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2954.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2955.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2956.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2957.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2958.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2959.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/IMG_2960.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ditu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kongtiao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rx5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/zhongkong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hu1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RX5.md" beforeDir="false" afterPath="$PROJECT_DIR$/RX5.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/RX5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -230,7 +174,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32903227" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
@@ -266,8 +210,8 @@
     <entry file="file://$PROJECT_DIR$/RX5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
