@@ -25,7 +25,7 @@
     5. 可以添加智能设备，行车记录仪，无人机，空气净化器，运动相机，麦克风，儿童安全座椅
     ![rx5](images/IMG_2923.JPG)
     6. 流量价格不贵，8.8/week，18/month 
-    ![rx5](images/IMG_2924.JPG)
+    ![rx5](images/IMG_2934.JPG)
     7. 商城出售的东西都和车相关，比较合理，但是没有做个性化推荐。
     ![rx5](images/IMG_2938.JPG)
     ![rx5](images/IMG_2939.JPG)
