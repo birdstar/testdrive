@@ -2,185 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tesla_Model3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0083.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0084.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0085.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0086.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0087.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0088.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0089.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0090.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0091.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0092.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0096.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0097.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_0098.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2974.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2975.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2976.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2977.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2978.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2979.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2980.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2981.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2982.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2983.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2984.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2985.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2986.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2987.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2988.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2989.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2990.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2991.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2992.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2993.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2994.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2995.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2996.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2997.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2998.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_2999.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3001.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3002.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3003.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3004.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3005.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3006.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3007.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3008.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3009.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3010.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3011.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3012.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3013.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3014.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3015.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3016.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3017.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3018.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/IMG_3019.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tesla/tesla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voyah.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/ar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/changjing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/dipan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/dongfeng.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/ertong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/hk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/huawei.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/qianlian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/radio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/voyah/zidingyi.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BYD_Tang.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BYD_Tang.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="19" selection-end-line="63" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tesla_Model3.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tesla_Model3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="s2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/s2.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="MarvalX.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MarvalX.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" selection-start-line="28" selection-end-line="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="I-pace.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/I-pace.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Audi_Q5.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Audi_Q5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BMW_X3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BMW_X3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="21" selection-start-line="21" selection-end-line="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RX5.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RX5.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ditu</find>
     </findStrings>
   </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -203,6 +49,10 @@
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
+  </component>
+  <component name="ProjectId" id="1yeptlCix3acN3yloFv55mjLQzH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -230,7 +80,15 @@
       <pane id="AndroidView" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
@@ -239,18 +97,6 @@
       <recent name="$PROJECT_DIR$/images/tesla" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -295,6 +141,7 @@
       <listeners />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -340,8 +187,22 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BYD_Tang.md">
