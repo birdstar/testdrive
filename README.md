@@ -1,5 +1,5 @@
 # testdrive
-王鹏的试驾报告, 仅代表个人观点。
+王鹏的试驾报告, 随便写着玩，仅代表个人观点。
 
 - [荣威 Maval X](MarvalX.md)
 - [Audi Q5](Audi_Q5.md)
