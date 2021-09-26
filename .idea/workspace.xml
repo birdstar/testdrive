@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Voyah.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/ar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/changjing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/dipan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/dongfeng.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/ertong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/hk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/huawei.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/qianlian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/radio.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/voyah/zidingyi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fit4G.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,6 +10,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -86,6 +83,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />

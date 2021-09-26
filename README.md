@@ -9,3 +9,4 @@
 - [荣威 RX-5](RX5.md)
 - [Tesla Model3](Tesla_Model3.md)
 - [岚图 Free](Voyah.md)
+- [飞度-四代](Fit4G.md)
