@@ -1,6 +1,6 @@
 # 斑马智行 - Venus 2.0
 
-![Rx5max](images/venus20/Rx5max.jpg)
+![Rx5max](images/venus20/rx5max.jpg)
 
 ## Introduction
 
@@ -103,6 +103,27 @@
 车控
 ![yuyin18](images/venus20/yuyin18.jpg)
 ![yuyin19](images/venus20/yuyin19.jpg)
+
+
+# MISC
+
+## 基于AI的接听助理
+![zl](images/venus20/ai1.jpg)
+
+## 日程
+![zl](images/venus20/richeng.jpg)
+
+## 车辆设置
+![zl](images/venus20/cl0.jpg)
+![zl](images/venus20/cl1.jpg)
+![zl](images/venus20/cl2.jpg)
+![zl](images/venus20/cl3.jpg)
+![zl](images/venus20/cl4.jpg)
+![zl](images/venus20/cl5.jpg)
+![zl](images/venus20/cl6.jpg)
+![zl](images/venus20/cl7.jpg)
+
+
 
 
 

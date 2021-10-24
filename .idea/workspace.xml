@@ -2,45 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/venus20/changjing1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/changjing2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/changjing3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/changjing4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/changjing5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/sw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/sw2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/sw3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/ui1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/ui2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/ui3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yuyin9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/venus20/yy8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba/xiaopeng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/xiaopeng6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/ai1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/cl7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/richeng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/sptp.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Venus20.md" beforeDir="false" afterPath="$PROJECT_DIR$/Venus20.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
