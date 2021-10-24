@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Venus20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/Intro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/RX5max.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/venus20/eco.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fit4G.md" beforeDir="false" afterPath="$PROJECT_DIR$/Fit4G.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,6 +201,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
