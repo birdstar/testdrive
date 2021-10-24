@@ -1,6 +1,6 @@
 # 斑马智行 - Venus 2.0
 
-![Rx5max](images/venus20/rx5max.jpg)
+![Rx5max](images/venus20/RX5max.jpg)
 
 ## Introduction
 
