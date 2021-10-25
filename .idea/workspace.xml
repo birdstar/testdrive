@@ -2,47 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/alibaba/datadriven.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/faw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/nissan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/saw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/ali1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/data7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/faw7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/nissan9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/saw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/saw2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/saw3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/saw4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba/zhiji.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/zhiji1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/zhiji2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/zhiji3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/zhiji4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/zhiji5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

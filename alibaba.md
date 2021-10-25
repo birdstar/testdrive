@@ -7,3 +7,4 @@
 - [数据驱动汽车智能化发展](alibaba/datadriven.md)
 - [一汽 – 数智化转型之路](alibaba/faw.md)
 - [上汽 – 智能化进击之路](alibaba/saw.md)
+- [智己汽车 – 智能时代汽车该有的样子](alibaba/zhiji.md)
