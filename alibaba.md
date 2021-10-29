@@ -8,3 +8,4 @@
 - [一汽 – 数智化转型之路](alibaba/faw.md)
 - [上汽 – 智能化进击之路](alibaba/saw.md)
 - [智己汽车 – 智能时代汽车该有的样子](alibaba/zhiji.md)
+- [一汽捷达 – 产品数字化升级之路](alibaba/jetta.md)
