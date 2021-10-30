@@ -18,3 +18,5 @@
 - [理想汽车 – 对于人机共驾的思考和实践](alibaba/lixiang.md)
 - [高德地图 – 产品与技术的演进和拓展](alibaba/hdmap.md)
 - [高德地图 – 地图场景的LBS智能信息分发技术](alibaba/lbs.md)
+
+[总结PPT](images/alibaba/AliSummary.pptx)

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/alibaba/lbs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/hd10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/hd11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/hd12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/hd13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/hd9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/lbs9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/hdmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/hdmap.md" afterDir="false" />
-    </list>
+    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
