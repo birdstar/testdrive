@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="" />
+    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/alibaba/hdmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba/lixiang.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alibaba/visualmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/hd8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/lx9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alibaba/vm9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

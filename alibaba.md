@@ -14,3 +14,6 @@
 - [AliOS – 助理车企打造新汽车](alibaba/alios.md)
 - [电子科大 – 开原驱动智能网联汽车操作系统发展](alibaba/oos.md)
 - [中科院信息所 – 车联网网络安全思考](alibaba/security.md)
+- [高德地图 – 超轻量级视觉智能助力地图和导航](alibaba/visualmap.md)
+- [理想汽车 – 对于人机共驾的思考和实践](alibaba/lixiang.md)
+- [高德地图 – 产品与技术的演进和拓展](alibaba/hdmap.md)
