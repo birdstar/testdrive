@@ -9,3 +9,6 @@
 - [上汽 – 智能化进击之路](alibaba/saw.md)
 - [智己汽车 – 智能时代汽车该有的样子](alibaba/zhiji.md)
 - [一汽捷达 – 产品数字化升级之路](alibaba/jetta.md)
+- [AliOS – 助理车企打造新汽车](alibaba/alios.md)
+- [电子科大 – 开原驱动智能网联汽车操作系统发展](alibaba/oos.md)
+- [中科院信息所 – 车联网网络安全思考](alibaba/security.md)
