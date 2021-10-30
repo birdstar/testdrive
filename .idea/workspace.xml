@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/alibaba/alios.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/oos.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/security.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/alios1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/alios2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/alios3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/alios4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/oos9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alibaba/sec9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba.md" afterDir="false" />
-    </list>
+    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
