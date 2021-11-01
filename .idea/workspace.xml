@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="" />
+    <list default="true" id="24bb3931-9b6a-439d-9002-404b3aa3c5a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ScenarioEngine.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scenario/ghsc9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
