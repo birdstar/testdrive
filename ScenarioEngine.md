@@ -179,7 +179,7 @@
    * 换胎模式
      ![sc1](images/scenario/weilai2.jpg)
 
-   * 换胎模式
+   * 洗车拖车模式
      ![sc1](images/scenario/weilai3.jpg)
      
      
